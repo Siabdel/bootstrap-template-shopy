@@ -1,2 +1,1 @@
-# bootstrap-template-shopy
-bootstrap template ecommerce model
+# bootstrap template ecommerce
